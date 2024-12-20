@@ -40,8 +40,6 @@ Project Structure: Exploratory Data Analysis and Predictive Modeling
    - Summarize findings (e.g., "Discounts and positive reviews increase purchases").  
    - Suggest strategies to improve customer purchases.
 
-7. Optional: Deployment 
-   - Create a small app or dashboard to let users input customer details and predict purchase intention.
 
 Key Outputs
 - Visual Insights: Graphs showing purchase trends.  
