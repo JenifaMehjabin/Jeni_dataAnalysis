@@ -41,6 +41,10 @@ Project Structure: Exploratory Data Analysis and Predictive Modeling
    - Suggest strategies to improve customer purchases.
 
 
+  
+
+
+
 Key Outputs
 - Visual Insights: Graphs showing purchase trends.  
 - Best Model: A machine learning model to predict purchases.  
